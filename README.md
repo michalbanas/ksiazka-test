@@ -4,4 +4,3 @@ Strona początkowa mojej **książki**
 
 tutaj też można edytować
 
-i zmieniać
